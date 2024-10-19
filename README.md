@@ -27,10 +27,13 @@ Interaction Features: Creating new features such as Purchase-to-Balance Ratio an
 
 
 **3. Clustering Analysis**
+
+
 **K-Means Clustering**
 Elbow Method: Used to determine the optimal number of clusters.
 K-Means Clustering: Applied to both the original data and PCA-reduced data to segment customers into distinct groups.
 Evaluation: Metrics such as Silhouette Score, Davies-Bouldin Index, and Calinski-Harabasz Index are used to evaluate the quality of clustering.
+
 
 **DBSCAN (Density-Based Clustering)**
 Hyperparameter Tuning: Grid search to find the optimal eps and min_samples values.

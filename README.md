@@ -13,6 +13,8 @@ Evaluation Metrics: Silhouette Score, Davies-Bouldin Index, and Calinski-Harabas
 The dataset used in this project is a Credit Card Customer Data obtained from Kaggle. It contains customer information such as balance, purchases, cash advances, and credit limit. The dataset is used to segment customers based on these financial behaviors.
 
 **Steps Involved in the Project**
+
+
 **1. Exploratory Data Analysis (EDA)**
 We begin by performing exploratory data analysis to understand the distribution of features and identify patterns and anomalies in the data. This includes:
 Correlation Matrix: Visualizing correlations between features.

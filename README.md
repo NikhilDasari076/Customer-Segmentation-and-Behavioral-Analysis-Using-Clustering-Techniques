@@ -12,6 +12,8 @@ Evaluation Metrics: Silhouette Score, Davies-Bouldin Index, and Calinski-Harabas
 **Dataset**
 The dataset used in this project is a Credit Card Customer Data obtained from Kaggle. It contains customer information such as balance, purchases, cash advances, and credit limit. The dataset is used to segment customers based on these financial behaviors.
 
+Link : https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
+
 **Steps Involved in the Project**
 
 
